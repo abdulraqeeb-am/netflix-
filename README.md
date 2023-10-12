@@ -34,4 +34,5 @@ Distinct Gender
 This query counts the occurrences of each distinct gender.
 
 NB:- all the code can be found inside the netflix.sql file 
+also attached is an image of the visualization made using tableau 
 
